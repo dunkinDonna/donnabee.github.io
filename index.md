@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Data Science Enthusiast | Creative
+home_text: Data Scientist  Creative
 title: Donna Bee
 ---
