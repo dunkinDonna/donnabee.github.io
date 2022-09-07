@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Orange Customer Retention
-categories: [Finance, Analytics]
+categories: [R, Analytics]
 ---
 
 
