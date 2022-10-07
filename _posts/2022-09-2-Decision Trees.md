@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Analytics Using Decision Trees
-categories: [Finance, Analytics]
+categories: [R, Analytics, Decision Trees]
 ---
    
 

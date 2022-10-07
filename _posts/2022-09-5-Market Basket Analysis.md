@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Market Basket Analysis of Coffee Shop Consumption
-categories: [Analytics]
+categories: [R, Analytics]
 ---
 
 [Click here for a cleaner format](https://dunkindonna.github.io/Analytics-Project-4-A.html)
