@@ -1,12 +1,13 @@
 ---
 layout: post
 comments: true
-title: Tumor Classification using Gene Expression using the
-RNA-Seq gene expression levels measured by Illumina –
-HiSeq Platform
-categories: [R, Analytics, Prinicipal Component Analysis, Classification]
+title: Recommender System User Analysis and System Building
+using KASANDRA
+categories: [R, Analytics, Recommender System]
 ---
 
-[Click here for a cleaner format](https://dunkindonna.github.io/Analytics-Project-4-A.html)
-Association Rules
+This site does not support format
+
+[Click here to access file](https://dunkindonna.github.io/Final%20Kasandra.pdf
+
 =================

@@ -4,9 +4,8 @@ comments: true
 title: Tumor Classification using Gene Expression using the
 RNA-Seq gene expression levels measured by Illumina –
 HiSeq Platform
-categories: [R, Analytics, Prinicipal Component Analysis, Classification]
+categories: [R, Analytics, Principal Component Analysis, Classification]
 ---
+This site does not support format
 
-[Click here for a cleaner format](https://dunkindonna.github.io/Analytics-Project-4-A.html)
-Association Rules
-=================
+[Click here to access file](https://dunkindonna.github.io/Final%20Gene%20Expression%20.pdf
