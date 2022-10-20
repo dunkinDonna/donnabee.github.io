@@ -5,7 +5,9 @@ title: Market Basket Analysis of Coffee Shop Consumption
 categories: [R, Analytics]
 ---
 This site does not support format
+
 [Click here for a cleaner format](https://dunkindonna.github.io/Analytics-Project-4-A.html)
+
 Association Rules
 =================
 
