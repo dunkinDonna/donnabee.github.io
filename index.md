@@ -1,5 +1,5 @@
 ---
 layout: home
 home_text: Data Scientist
-title: Donna Bee
+title: Donna B
 ---

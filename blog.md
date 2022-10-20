@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Donna Bee | Blog
+title: Donna B | Blog
 pagination:
   enabled: true
 ---
