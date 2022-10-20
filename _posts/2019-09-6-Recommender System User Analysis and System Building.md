@@ -1,8 +1,7 @@
 ---
 layout: post
 comments: true
-title: Recommender System User Analysis and System Building
-using KASANDRA
+title: Recommender System User Analysis and System Building using KASANDRA
 categories: [R, Analytics, Recommender System]
 ---
 
